@@ -24,15 +24,15 @@ DataLivia AB is a Stockholm-based technology company combining AI engineering, m
 
 ## What we do
 
-| Service area | Focus |
-| --- | --- |
-| **AI Engineering & Intelligent Automation** | Generative AI and LLM applications, retrieval-augmented generation (RAG), AI agents and intelligent workflows, AI assistants and automation, evaluation, integration and responsible implementation |
-| **Data Engineering & Cloud Platforms** | Modern data platforms, data pipelines and ETL/ELT, data architecture and modelling, analytics infrastructure, cloud engineering and integration |
-| **Software, Integration & Digital Products** | Custom software, backend services and APIs, system integration, web applications and digital products, full-lifecycle engineering |
-| **Strategy & Architecture** | AI and data strategy, use-case discovery, technical consulting, solution architecture, technology assessment and implementation planning |
-| **Life Sciences & Bioinformatics** | Bioinformatics and computational biology, multi-omics and biological data analysis, scientific data engineering, AI applications for life sciences, research-oriented analytical solutions |
+| Service group | Website service areas | Focus |
+| --- | --- | --- |
+| **AI Engineering & Intelligent Automation** | AI & Generative AI | Generative AI and LLM applications, retrieval-augmented generation (RAG), AI agents and intelligent workflows, AI assistants and automation, evaluation, integration and responsible implementation |
+| **Data Engineering & Cloud Platforms** | Data Engineering & Analytics<br>Cloud & DevOps | Modern data platforms, data pipelines and ETL/ELT, data architecture and modelling, analytics infrastructure; cloud engineering on Azure, AWS and Google Cloud, CI/CD, infrastructure as code, containers and observability |
+| **Software, Integration & Digital Products** | Software & Digital Products<br>Integration & APIs<br>UX & Digital Experience | Custom software, backend services and APIs, system integration, web applications and digital products, full-lifecycle engineering; API design and system integration; user experience, interface design and accessibility-oriented design |
+| **Strategy & Architecture** | Strategy & Architecture | AI and data strategy, use-case discovery, technical consulting, solution architecture, technology assessment and implementation planning |
+| **Life Sciences & Bioinformatics** | Bioinformatics & Life Sciences | Bioinformatics and computational biology, genomics, transcriptomics and multi-omics analysis, scientific data engineering, AI applications for life sciences, research-oriented analytical solutions |
 
-Service areas can be combined within a single engagement. Full details are on our [services page](https://datalivia.se/services).
+Our eight service areas can be combined within a single engagement. Life sciences and bioinformatics is a core specialism alongside our engineering work. Full details are on our [services page](https://datalivia.se/services).
 
 ## Technical expertise
 
