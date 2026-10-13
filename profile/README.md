@@ -62,4 +62,4 @@ Public repositories will appear here as they are published. Visit [datalivia.se]
 - Email: [contact@datalivia.se](mailto:contact@datalivia.se)
 - Location: Stockholm, Sweden
 
-<sub>DataLivia AB · Org. no. 559601-1014</sub>
+<sub>DataLivia AB</sub>
